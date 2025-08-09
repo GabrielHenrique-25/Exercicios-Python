@@ -6,7 +6,7 @@ Resolução dos exercícios de python propostos pelo professor: Marcos Vinícius
 - [Exercício 1: Percorrendo uma Lista](Percorrendo_uma_Lista.py)
 - [Exercício 2: Encontrando o Maior Número](Encontrando_o_Maior_Número.py)
 - [Exercício 3: Encontrando o Segundo Maior Número](Encontrando_o_Segundo_Maior_Número.py)
-- Exercício 4: Encontrando os Números Pares
+- [Exercício 4: Encontrando os Números Pares](Encontrando_os_Números_Pares.py)
 - Exercício 5: Encontrando os Números Ímpares
 - Exercício 6: Buscando um Número
 - Exercício 7: Extraindo Nomes de Objetos
