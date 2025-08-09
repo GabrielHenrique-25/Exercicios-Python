@@ -10,11 +10,11 @@ Resolução dos exercícios de python propostos pelo professor: Marcos Vinícius
 - [Exercício 5: Encontrando os Números Ímpares](Encontrando_os_Números_Ímpares.py)
 - [Exercício 6: Buscando um Número](Buscando_um_Número.py)
 - [Exercício 7: Extraindo Nomes de Objetos](Extraindo_Nomes_de_Objetos.py)
-- Exercício 8: Somando os Valores da Lista
-- Exercício 9: Contando Ocorrências
-- Exercício 10: Removendo Duplicatas
-- Exercício 11: Verificando se a Lista está Vazia
-- Exercício 12: Juntando Duas Listas
-- Exercício 13: Retornando o Menor Número
-- Exercício 14: Calculando a Média
-- Exercício 15: Invertendo a Lista
+- [Exercício 8: Somando os Valores da Lista](Somando_os_Valores_da_Lista.py)
+- [Exercício 9: Contando Ocorrências](Contando_Ocorrencias.py)
+- [Exercício 10: Removendo Duplicatas](Removendo_Duplicatas.py)
+- [Exercício 11: Verificando se a Lista está Vazia](Verificando_se_a_Lista_está_Vazia.py)
+- [Exercício 12: Juntando Duas Listas](Juntando_duas_Listas.py)
+- [Exercício 13: Retornando o Menor Número](Retornando_o_Menor_Número.py)
+- [Exercício 14: Calculando a Média](Calculando_a_Média.py)
+- [Exercício 15: Invertendo a Lista](Invertendo_a_Lista.py)
