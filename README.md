@@ -4,7 +4,7 @@ Resolução dos exercícios de python propostos pelo professor: Marcos Vinícius
 # Lista de Exercícios
 
 - [Exercício 1: Percorrendo uma Lista](Percorrendo_uma_Lista.py)
-- Exercício 2: Encontrando o Maior Número
+- [Exercício 2: Encontrando o Maior Número](Encontrando_o_Maior_Número.py)
 - Exercício 3: Encontrando o Segundo Maior Número
 - Exercício 4: Encontrando os Números Pares
 - Exercício 5: Encontrando os Números Ímpares
